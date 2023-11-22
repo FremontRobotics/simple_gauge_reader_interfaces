@@ -1,0 +1,9 @@
+sensor_msgs/Image img
+int64 center_x
+int64 center_y
+int64 min_x
+int64 min_y
+int64 max_x
+int64 max_y
+---
+float64 value

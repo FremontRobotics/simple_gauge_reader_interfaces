@@ -1,4 +1,4 @@
-string image_topic
+sensor_msgs/Image img
 int64 center_x
 int64 center_y
 int64 min_x

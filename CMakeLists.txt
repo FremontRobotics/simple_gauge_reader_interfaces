@@ -26,6 +26,7 @@ endif()
 rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/ReadGauge.srv"
   "srv/ReadGaugeFromImage.srv"
+  "srv/ReadGaugeFromCompressedImage.srv"
   DEPENDENCIES sensor_msgs
 )
 
